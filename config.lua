@@ -1,7 +1,7 @@
 Config = {}
 
 
-Config.frameworkObject = "infinity" -- newqb, oldqb, esx, infinity
+Config.frameworkObject = "newqb" -- newqb, oldqb, esx, infinity
 Config.Mysql = "oxmysql" -- mysql-async -- oxmysql
 Config.SetCraftXpCommand = 'setxp' -- example = setxp id xp  = setxp 2 5
 Config.AdminPerm = 'admin' --- admin rank
